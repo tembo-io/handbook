@@ -10,9 +10,9 @@
 
 ```mermaid
 flowchart LR
-    A[Idea] -->|Shaping| B[Proposal]
-    B -->|Betting| C[Active Project]
-    C -->|Building| D[Launch]
+    A[Idea] -->|Refine| B[Proposal]
+    B -->|Select| C[Project]
+    C -->|Build| D[Launch]
 ```
 
 ### Idea
